@@ -1,11 +1,11 @@
 "use strict";
 
-//?JQUERY BLOCK
+//!JQUERY BLOCK
 // $(document).ready(function () {
 
-// }); //END READY
+// }); //!END READY
 
-//?JS BLOCK
+//!JS BLOCK
 window.onload = function () {
 
-}//END ONLOAD
+};//!END ONLOAD
